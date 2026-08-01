@@ -1,6 +1,7 @@
 # Final-
 includes final and read me file and all final questions answered
 
+To properly read the provided flow chart the read me file needs to be opened in VS Code
 
 Overview and reflection.
 in my original aspariation for this code was to play tick tac toe and then i realised that it was actually reall difficult and decided to do connect 4 instead.
